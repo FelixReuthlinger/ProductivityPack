@@ -1,0 +1,12 @@
+{
+	"name": "ProductivityPack",
+	"description": "Mod and config to increase your daily productivity.",
+	"version_number": "1.0.0",
+	"website_url": "https://github.com/FelixReuthlinger/ProductivityPack",
+	"dependencies": [
+		"FixItFelix-FurnaceConfig-0.1.0",
+		"FixItFelix-KilnConfig-0.1.1",
+		"FixItFelix-SmelterConfig-0.1.0",
+		"denikson-BepInExPack_Valheim-5.4.1601"
+	]
+}
