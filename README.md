@@ -19,9 +19,14 @@ which isn't available on ThunderStore, credits go fully to Aedenthorn.
 * Kiln with increased wood (100) capacity 
 * Smelter with increased ore (100) / fuel (200) capacity and faster production (10 seconds per bar)
 * Blast Furnace with increased ore (100) / fuel (200) capacity and faster production (10 seconds per bar)
+* Seed Totem(s) that let you easier plant and harvest
+  * put all seeds in it and let it plant them for you and hit it to harvest
+  * has increased seeding amount and speed
+  * changed some hotkeys, so on laptop it also is usable
 
 ## Changelog
 
+* 1.1.0 -> added Seed Totem
 * 1.0.0 -> initial release
 
 ## Contact

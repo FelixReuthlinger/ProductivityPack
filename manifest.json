@@ -1,9 +1,10 @@
 {
 	"name": "ProductivityPack",
 	"description": "Mod and config to increase your daily productivity.",
-	"version_number": "1.0.0",
+	"version_number": "1.1.0",
 	"website_url": "https://github.com/FelixReuthlinger/ProductivityPack",
 	"dependencies": [
+		"MathiasDecrock-SeedTotem-4.1.0",
 		"FixItFelix-FurnaceConfig-0.1.0",
 		"FixItFelix-KilnConfig-0.1.1",
 		"FixItFelix-SmelterConfig-0.1.0",
